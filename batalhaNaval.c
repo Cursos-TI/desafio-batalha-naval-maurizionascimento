@@ -5,6 +5,8 @@
 // Cada nível expande as funcionalidades usando vetores e matrizes.
 
 int main() {
+printf("Desafio Batalha Naval!\n");
+return 0;
 
     // ===========================================
     // Nível Novato - Posicionamento dos Navios
